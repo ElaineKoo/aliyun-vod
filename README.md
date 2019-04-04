@@ -1,4 +1,4 @@
-# aliyun_vod
+# aliyun-vod
 阿里云点播PHP SDK
 
 ### 安装
